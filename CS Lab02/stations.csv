@@ -1,0 +1,21 @@
+﻿name,japanese_name,passengers,operator,city_or_prefecture,latitude,longitude
+Shinjuku Station,新宿駅,3800000,"JR East, Tokyo Metro, Toei, Odakyu, Keio",Tokyo,35.6895,139.7004
+Shibuya Station,渋谷駅,3000000,"JR East, Tokyo Metro, Tokyu, Keio",Tokyo,35.658,139.7016
+Ikebukuro Station,池袋駅,2500000,"JR East, Tokyo Metro, Tobu, Seibu",Tokyo,35.7289,139.7104
+Osaka / Umeda Station,大阪駅・梅田駅,2300000,"JR West, Hankyu, Hanshin, Osaka Metro",Osaka,34.7024,135.4959
+Yokohama Station,横浜駅,2100000,"JR East, Tokyu, Keikyu, Sotetsu, Yokohama Subway",Kanagawa,35.4658,139.6227
+Kita-Senju Station,北千住駅,1500000,"JR East, Tobu, Tokyo Metro, Tsukuba Express",Tokyo,35.7444,139.8044
+Nagoya Station,名古屋駅,1100000,"JR Central, Meitetsu, Kintetsu, Nagoya Subway",Aichi,35.1709,136.8815
+Tokyo Station,東京駅,1100000,"JR East, JR Central, Tokyo Metro",Tokyo,35.6812,139.7671
+Shinagawa Station,品川駅,1000000,"JR East, JR Central, Keikyu",Tokyo,35.6284,139.7387
+Takadanobaba Station,高田馬場駅,900000,"JR East, Seibu, Tokyo Metro",Tokyo,35.7123,139.7038
+Shinbashi Station,新橋駅,770000,"JR East, Tokyo Metro, Toei, Yurikamome",Tokyo,35.6664,139.7583
+Namba Station,難波駅,700000,"Nankai, Kintetsu, Hanshin, Osaka Metro",Osaka,34.6629,135.5022
+Omiya Station,大宮駅,660000,"JR East, Tobu, Saitama New Transit",Saitama,35.9063,139.624
+Akihabara Station,秋葉原駅,650000,"JR East, Tokyo Metro, Tsukuba Express",Tokyo,35.6983,139.7731
+Tennoji Station,天王寺駅,640000,"JR West, Osaka Metro, Kintetsu",Osaka,34.6472,135.5139
+Meguro Station,目黒駅,640000,"JR East, Tokyu, Tokyo Metro, Toei",Tokyo,35.6334,139.7155
+Sannomiya Station,三ノ宮駅・三宮駅,600000,"JR West, Hankyu, Hanshin, Kobe New Transit",Hyogo,34.6942,135.1954
+Nishi-Funabashi Station,西船橋駅,570000,"JR East, Tokyo Metro, Toyo Rapid Railway",Chiba,35.7075,139.9593
+Kyoto Station,京都駅,560000,"JR West, JR Central, Kintetsu, Kyoto Subway",Kyoto,34.9858,135.7588
+Yurakucho / Hibiya Station,有楽町駅・日比谷駅,550000,"JR East, Tokyo Metro, Toei",Tokyo,35.6751,139.7631

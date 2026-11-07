@@ -1,0 +1,185 @@
+{
+    "chart_title": "Busiest Train Stations in Japan",
+    "data_points": [
+        {
+            "name": "Shinjuku Station",
+            "japanese_name": "\u65b0\u5bbf\u99c5",
+            "passengers": 3800000,
+            "operator": "JR East, Tokyo Metro, Toei, Odakyu, Keio",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6895,
+            "longitude": 139.7004
+        },
+        {
+            "name": "Shibuya Station",
+            "japanese_name": "\u6e0b\u8c37\u99c5",
+            "passengers": 3000000,
+            "operator": "JR East, Tokyo Metro, Tokyu, Keio",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.658,
+            "longitude": 139.7016
+        },
+        {
+            "name": "Ikebukuro Station",
+            "japanese_name": "\u6c60\u888b\u99c5",
+            "passengers": 2500000,
+            "operator": "JR East, Tokyo Metro, Tobu, Seibu",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.7289,
+            "longitude": 139.7104
+        },
+        {
+            "name": "Osaka / Umeda Station",
+            "japanese_name": "\u5927\u962a\u99c5\u30fb\u6885\u7530\u99c5",
+            "passengers": 2300000,
+            "operator": "JR West, Hankyu, Hanshin, Osaka Metro",
+            "city_or_prefecture": "Osaka",
+            "latitude": 34.7024,
+            "longitude": 135.4959
+        },
+        {
+            "name": "Yokohama Station",
+            "japanese_name": "\u6a2a\u6d5c\u99c5",
+            "passengers": 2100000,
+            "operator": "JR East, Tokyu, Keikyu, Sotetsu, Yokohama Subway",
+            "city_or_prefecture": "Kanagawa",
+            "latitude": 35.4658,
+            "longitude": 139.6227
+        },
+        {
+            "name": "Kita-Senju Station",
+            "japanese_name": "\u5317\u5343\u4f4f\u99c5",
+            "passengers": 1500000,
+            "operator": "JR East, Tobu, Tokyo Metro, Tsukuba Express",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.7444,
+            "longitude": 139.8044
+        },
+        {
+            "name": "Nagoya Station",
+            "japanese_name": "\u540d\u53e4\u5c4b\u99c5",
+            "passengers": 1100000,
+            "operator": "JR Central, Meitetsu, Kintetsu, Nagoya Subway",
+            "city_or_prefecture": "Aichi",
+            "latitude": 35.1709,
+            "longitude": 136.8815
+        },
+        {
+            "name": "Tokyo Station",
+            "japanese_name": "\u6771\u4eac\u99c5",
+            "passengers": 1100000,
+            "operator": "JR East, JR Central, Tokyo Metro",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6812,
+            "longitude": 139.7671
+        },
+        {
+            "name": "Shinagawa Station",
+            "japanese_name": "\u54c1\u5ddd\u99c5",
+            "passengers": 1000000,
+            "operator": "JR East, JR Central, Keikyu",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6284,
+            "longitude": 139.7387
+        },
+        {
+            "name": "Takadanobaba Station",
+            "japanese_name": "\u9ad8\u7530\u99ac\u5834\u99c5",
+            "passengers": 900000,
+            "operator": "JR East, Seibu, Tokyo Metro",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.7123,
+            "longitude": 139.7038
+        },
+        {
+            "name": "Shinbashi Station",
+            "japanese_name": "\u65b0\u6a4b\u99c5",
+            "passengers": 770000,
+            "operator": "JR East, Tokyo Metro, Toei, Yurikamome",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6664,
+            "longitude": 139.7583
+        },
+        {
+            "name": "Namba Station",
+            "japanese_name": "\u96e3\u6ce2\u99c5",
+            "passengers": 700000,
+            "operator": "Nankai, Kintetsu, Hanshin, Osaka Metro",
+            "city_or_prefecture": "Osaka",
+            "latitude": 34.6629,
+            "longitude": 135.5022
+        },
+        {
+            "name": "Omiya Station",
+            "japanese_name": "\u5927\u5bae\u99c5",
+            "passengers": 660000,
+            "operator": "JR East, Tobu, Saitama New Transit",
+            "city_or_prefecture": "Saitama",
+            "latitude": 35.9063,
+            "longitude": 139.624
+        },
+        {
+            "name": "Akihabara Station",
+            "japanese_name": "\u79cb\u8449\u539f\u99c5",
+            "passengers": 650000,
+            "operator": "JR East, Tokyo Metro, Tsukuba Express",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6983,
+            "longitude": 139.7731
+        },
+        {
+            "name": "Tennoji Station",
+            "japanese_name": "\u5929\u738b\u5bfa\u99c5",
+            "passengers": 640000,
+            "operator": "JR West, Osaka Metro, Kintetsu",
+            "city_or_prefecture": "Osaka",
+            "latitude": 34.6472,
+            "longitude": 135.5139
+        },
+        {
+            "name": "Meguro Station",
+            "japanese_name": "\u76ee\u9ed2\u99c5",
+            "passengers": 640000,
+            "operator": "JR East, Tokyu, Tokyo Metro, Toei",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6334,
+            "longitude": 139.7155
+        },
+        {
+            "name": "Sannomiya Station",
+            "japanese_name": "\u4e09\u30ce\u5bae\u99c5\u30fb\u4e09\u5bae\u99c5",
+            "passengers": 600000,
+            "operator": "JR West, Hankyu, Hanshin, Kobe New Transit",
+            "city_or_prefecture": "Hyogo",
+            "latitude": 34.6942,
+            "longitude": 135.1954
+        },
+        {
+            "name": "Nishi-Funabashi Station",
+            "japanese_name": "\u897f\u8239\u6a4b\u99c5",
+            "passengers": 570000,
+            "operator": "JR East, Tokyo Metro, Toyo Rapid Railway",
+            "city_or_prefecture": "Chiba",
+            "latitude": 35.7075,
+            "longitude": 139.9593
+        },
+        {
+            "name": "Kyoto Station",
+            "japanese_name": "\u4eac\u90fd\u99c5",
+            "passengers": 560000,
+            "operator": "JR West, JR Central, Kintetsu, Kyoto Subway",
+            "city_or_prefecture": "Kyoto",
+            "latitude": 34.9858,
+            "longitude": 135.7588
+        },
+        {
+            "name": "Yurakucho / Hibiya Station",
+            "japanese_name": "\u6709\u697d\u753a\u99c5\u30fb\u65e5\u6bd4\u8c37\u99c5",
+            "passengers": 550000,
+            "operator": "JR East, Tokyo Metro, Toei",
+            "city_or_prefecture": "Tokyo",
+            "latitude": 35.6751,
+            "longitude": 139.7631
+        }
+    ]
+}
